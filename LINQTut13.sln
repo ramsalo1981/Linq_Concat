@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTut13.Concatenation", "LINQTut13.Concatenation\LINQTut13.Concatenation.csproj", "{9F3037D4-5E10-4662-8426-C38DA71F158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{4E93355A-7CB1-41B2-B6D0-F9276436F3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3037D4-5E10-4662-8426-C38DA71F158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3037D4-5E10-4662-8426-C38DA71F158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3037D4-5E10-4662-8426-C38DA71F158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3037D4-5E10-4662-8426-C38DA71F158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E93355A-7CB1-41B2-B6D0-F9276436F3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E93355A-7CB1-41B2-B6D0-F9276436F3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E93355A-7CB1-41B2-B6D0-F9276436F3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E93355A-7CB1-41B2-B6D0-F9276436F3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEC4C2B-8B90-45F0-871A-74D1E735F2ED}
+	EndGlobalSection
+EndGlobal
